@@ -22,7 +22,7 @@ Usage
 
 <img src='https://github.com/Korchy/tmce_olstart/blob/master/screenshot.jpg?raw=true'>
 
-2. Place cursor to numeric lis which needs to start from different number
+2. Place cursor to numeric list which needs to start from different number
 3. Click button
 4. Enter new value
 5. Click OK
