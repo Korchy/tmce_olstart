@@ -18,12 +18,12 @@ Installation
 
 Usage
 ---
-1. New button will apper in TinyMCE Advanced Editor
+New button will apper in TinyMCE Advanced Editor
 
 <img src='https://github.com/Korchy/tmce_olstart/blob/master/screenshot.jpg?raw=true'>
 
-2. Place cursor to numeric list which needs to start from different number
-3. Click button
-4. Enter new value
-5. Click OK
-6. List starts from entered value
+1. Place cursor to numeric list which needs to start from different number
+2. Click button
+3. Enter new value
+4. Click OK
+5. List starts from entered value
