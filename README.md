@@ -19,4 +19,4 @@ Installation
 Usage
 ---
 1. New button will apper in TinyMCE Advanced Editor
-<img src='https://github.com/Korchy/tmce_olstart/blob/master/screenshot.jpg?raw=true'>
+<img src='https://github.com/Korchy/tmce_olstart/blob/master/screenshot.jpg?raw=true' border=1>
