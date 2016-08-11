@@ -14,7 +14,7 @@ Installation
 ---
 1. Upload file functions.php to your current Wordpress theme folder or add code from it into your functions.php file.
 2. Upload other files to the same directory
-3. Correct _PATH_ in functions.php and in tmce_olstart.js - set right path to files.
+3. Modify &#095;PATH&#095; in functions.php and in tmce_olstart.js - set right path to files.
 
 Usage
 ---
