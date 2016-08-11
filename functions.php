@@ -1,7 +1,7 @@
 <?php
 // External plugin for WordPress TinyMCE Advanced Editor
 // Adds button for OL tag - starts numeric list from entering number
-// Author: Korchiy
+// Author: Nikita Akimov
 // E-mail: force--majeure@yandex.ru
 function tmceOlStartButton() {
 	global $typenow;
